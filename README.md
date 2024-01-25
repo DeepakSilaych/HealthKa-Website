@@ -9,10 +9,7 @@ Welcome to the HealthKa website repository! This React-based website showcases t
 - [Usage](#usage)
 - [FAQ](#faq)
 - [Blog](#blog)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Overview
 
 HealthKa is dedicated to revolutionizing the healthcare industry by providing lightning-fast services to its customers. This website serves as a platform to inform users about the services offered and encourage them to download the HealthKa app for a seamless healthcare experience.
